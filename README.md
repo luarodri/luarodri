@@ -1,11 +1,8 @@
-## Hi there 👋
-### 👩🏾 My name is Luanda, welcome to my Github profile.
-### 👩🏾 My pronouns are: ✨she/her✨
+## ♠ Olá, seja bem-vindo ao meu perfil no Github. 👋
+### 👩🏾 Meu nome é Luanda.
+### 📚 Estou cursando o 3º ano do Ensino Médio em Informática no CEFET-RJ
 
-<!--
-
-
-Here are some ideas to get you started:
+### 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,5 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: .
