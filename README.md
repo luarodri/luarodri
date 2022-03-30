@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo ao meu perfil no Github. 👋
 ### 👩🏾 Meu nome é Luanda.
-### 📚 Estou cursando o 3º ano do Ensino Médio em Informática no CEFET-RJ.
+📚 Estou cursando o 3º ano do Ensino Médio em Informática no CEFET-RJ.
 
 ### 🔧 Ferramentas que utilizo:
 
