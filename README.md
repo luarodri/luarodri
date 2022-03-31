@@ -14,19 +14,7 @@
 </div>
     
           
-"Siga seu sonho como um destruidor
-Mesmo se der tudo errado, oh vai melhorar
-Siga seu sonho como um destruidor
-Mesmo se der tudo errado
-Não volte atrás, jamais
-
-Porque o amanhecer logo antes
-Do sol nascer é o mais escuro
-Mesmo num futuro distante
-Nunca se esqueça o você de agora
-Onde quer que você esteja agora
-Você está fazendo apenas uma pausa
-Não desista, você sabe" - BTS
+"Siga seu sonho como um destruidor. Mesmo se der tudo errado, oh vai melhorar. Siga seu sonho como um destruidor, mesmo se der tudo errado. Não volte atrás, jamais. Porque o amanhecer logo antes do sol nascer é o mais escuro, mesmo num futuro distante. Nunca se esqueça o você de agora, onde quer que você esteja agora, você está fazendo apenas uma pausa. Não desista, você sabe" - BTS
           
           
           
