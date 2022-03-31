@@ -13,7 +13,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luarodri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-<img src="https://pds.joins.com/news/component/htmlphoto_mmdata/201809/27/0a3adec9-7b93-4919-ade0-9d1b3bac7034.gif" width="40" height="40"
+<img src="https://pds.joins.com/news/component/htmlphoto_mmdata/201809/27/0a3adec9-7b93-4919-ade0-9d1b3bac7034.gif" width="40" height="40">
 
 
 
