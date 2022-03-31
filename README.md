@@ -13,7 +13,21 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luarodri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-<img src="https://pds.joins.com/news/component/htmlphoto_mmdata/201809/27/0a3adec9-7b93-4919-ade0-9d1b3bac7034.gif" width="40" height="40">
+"Siga seu sonho como um destruidor
+Mesmo se der tudo errado, oh vai melhorar
+Siga seu sonho como um destruidor
+Mesmo se der tudo errado
+Não volte atrás, jamais
+
+Porque o amanhecer logo antes
+Do sol nascer é o mais escuro
+Mesmo num futuro distante
+Nunca se esqueça o você de agora
+Onde quer que você esteja agora
+Você está fazendo apenas uma pausa
+Não desista, você sabe" - BTS
+          
+<img src="https://pds.joins.com/news/component/htmlphoto_mmdata/201809/27/0a3adec9-7b93-4919-ade0-9d1b3bac7034.gif">
 
 
 
