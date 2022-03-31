@@ -18,7 +18,7 @@
           
           
           
-<img src="https://pds.joins.com/news/component/htmlphoto_mmdata/201809/27/0a3adec9-7b93-4919-ade0-9d1b3bac7034.gif">
+<img src="https://pds.joins.com/news/component/htmlphoto_mmdata/201809/27/0a3adec9-7b93-4919-ade0-9d1b3bac7034.gif" width="50" height="50">
 
 
 
