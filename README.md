@@ -14,11 +14,7 @@
 </div>
     
           
-<a href="https://youtu.be/rlVWswzkqas">"Siga seu sonho como um destruidor. Mesmo se der tudo errado, oh vai melhorar. Siga seu sonho como um destruidor, mesmo se der tudo errado. Não volte atrás, jamais. Porque o amanhecer logo antes do sol nascer é o mais escuro, mesmo num futuro distante. Nunca se esqueça o você de agora, onde quer que você esteja agora, você está fazendo apenas uma pausa. Não desista, você sabe" - BTS</a>
-          
-          
-          
-<img src="https://pds.joins.com/news/component/htmlphoto_mmdata/201809/27/0a3adec9-7b93-4919-ade0-9d1b3bac7034.gif">
+
 
 
 
