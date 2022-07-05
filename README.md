@@ -4,7 +4,7 @@
 📚 Estou cursando o 3º ano do Ensino Médio em Informática no CEFET-RJ.
 
 <div>
-<a href= "https://www.linkedin.com/in/luanda-rodrigues-997b29241"<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href= "https://www.linkedin.com/in/luanda-rodrigues-997b29241"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:luandarodrigues331@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
