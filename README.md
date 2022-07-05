@@ -1,7 +1,7 @@
 ## Olá, seja bem-vindo ao meu perfil no Github. 👋
 👩🏽 Meu nome é Luanda.
 
-📚 Estou cursando o 3º ano do Ensino Médio em Informática no CEFET-RJ.
+📚 Ensino Médio Técnico em Informática no CEFET-RJ.
 
 <div>
 <a href= "https://www.linkedin.com/in/luanda-rodrigues-997b29241"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
